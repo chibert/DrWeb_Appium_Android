@@ -1,3 +1,4 @@
-# Practice of automation school 2016
+# Experiment with Appium for Android.
 
-See all info in repo [autoschool/autoschool.github.io](https://github.com/autoschool/autoschool.github.io)
+Manuals...
+(Coming soon! ,-))
